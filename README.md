@@ -10,7 +10,7 @@ Lightweight helper for computing Atari human-normalized scores (HNS) using publi
 ## Usage
 
 ```python
-from atarihns.helpers import calculate_hns, get_human_score, get_random_score
+from atarihns import calculate_hns, get_human_score, get_random_score
 
 env = "Pong-v5"
 agent_score = 15.0
