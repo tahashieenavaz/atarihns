@@ -19,7 +19,7 @@ classifiers = [
     "Intended Audience :: Developers",
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
-dependencies = ["numpy"]
+dependencies = []
 keywords = ["reinforcement learning", "atari", "human normalized score", "hns score"]
 license = { file = "LICENSE" }
 urls = { Homepage="https://github.com/tahashieenavaz/atarihns", Repository="https://github.com/tahashieenavaz/atarihns", Documentation="https://github.com/tahashieenavaz/atarihns#readme" }
