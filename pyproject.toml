@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "atarihns"
-version = "0.0.1"
+version = "0.0.11"
 authors = [
   { name="Taha Shieenavaz", email="tahashieenavaz@gmail.com" },
 ]
-description = "Sum tree and min tree implementation used particularly in reinforcement learning algorithms."
+description = "A little helper to calculate human normalized score for different ALE environments efficiently."
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [
