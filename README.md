@@ -1,4 +1,4 @@
-# Atari Human Normalized Score
+# Atari HNS (Human Normalized Score)
 
 Lightweight helper for computing Atari human-normalized scores (HNS) using published human and random baselines.
 
@@ -10,16 +10,17 @@ Lightweight helper for computing Atari human-normalized scores (HNS) using publi
 ## Usage
 
 ```python
-from atarihns import calculate_hns, get_human_score, get_random_score
+from atarihns import get_human_score, get_random_score
+from atarihns import calculate_hns, get_hns # alias
 
-env = "Pong-v5"
+environment = "Pong-v5"
 agent_score = 15.0
 
-human = get_human_score(env)
-random = get_random_score(env)
-hns = calculate_hns(env, agent_score)
+human = get_human_score(environment)
+random = get_random_score(environment)
+hns = calculate_hns(environment, agent_score)
 
-print(f"{env} human: {human}, random: {random}, hns: {hns:.3f}")
+print(f"{environment} human: {human}, random: {random}, hns: {hns:.3f}")
 ```
 
 ## Notes
