@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "atarihns"
-version = "0.0.17"
+version = "0.0.18"
 authors = [
   { name="Taha Shieenavaz", email="tahashieenavaz@gmail.com" },
 ]
-description = "A little helper to calculate human normalized score for different ALE environments efficiently."
+description = "A helper to calculate human normalized score for different atari environments efficiently and easily."
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [

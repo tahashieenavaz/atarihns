@@ -4,14 +4,17 @@ Lightweight helper for computing Atari human-normalized scores (HNS) using publi
 
 ## Installation
 
-- From PyPI (once published): `pip install atarihns`
-- From source: clone the repo and run `pip install .`
+You can simply install this package using pip package manager.
+
+```
+pip install atarihns
+```
 
 ## Usage
 
 ```python
 from atarihns import get_human_score, get_random_score
-from atarihns import calculate_hns, get_hns # alias
+from atarihns import calculate_hns, get_hns
 
 environment = "Pong-v5"
 agent_score = 15.0
