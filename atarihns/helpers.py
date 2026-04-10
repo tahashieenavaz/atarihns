@@ -19,9 +19,3 @@ def get_human_score(environment_name: str) -> float:
     environment_name = refine_environment_name(environment_name)
     check_environment_existence(environment_name)
     return ATARI_SCORES.get(environment_name)[1]
-
-
-def get_random_score(environment_name: str) -> float:
-    environment_name = refine_environment_name(environment_name)
-    check_environment_existence(environment_name)
-    return ATARI_SCORES.get(environment_name)[0]
