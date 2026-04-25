@@ -77,13 +77,19 @@ HNS = \frac{S_{agent} - S_{random}}{S_{human} - S_{random}}
 
 Where:
 
+<div align="center">
+
 | Symbol | Meaning |
 | --- | --- |
 | `S_agent` | Score achieved by your agent. |
 | `S_random` | Published random-agent baseline for the environment. |
 | `S_human` | Published human baseline for the environment. |
 
+</div>
+
 Interpretation:
+
+<div align="center">
 
 | HNS value | Meaning |
 | --- | --- |
@@ -91,6 +97,8 @@ Interpretation:
 | `1.0` | Human-level score. |
 | `> 1.0` | Above the human baseline. |
 | `< 0.0` | Below the random-agent baseline. |
+
+</div>
 
 This package returns HNS as a ratio. Multiply by `100` if you need the
 percentage form commonly shown in benchmark tables.
