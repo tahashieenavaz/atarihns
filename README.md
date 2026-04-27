@@ -209,7 +209,7 @@ benchmark convention used by DQN-style evaluation.
 If this package helps your work, cite the repository:
 
 ```bibtex
-@software{shieenavaz_atarihns_2025,
+@software{shieenavaz2025atarihns
   author = {Shieenavaz, Taha},
   title = {atarihns: Human-normalized scores for Atari environments},
   year = {2025},
