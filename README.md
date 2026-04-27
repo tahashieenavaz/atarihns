@@ -49,7 +49,10 @@ HNS: 1.011
 Import from the package root:
 
 ```python
-from atarihns import calculate_hns, get_hns, get_human_score, get_random_score, hns
+from atarihns import calculate_hns
+from atarihns import get_hns
+from atarihns import get_human_score
+from atarihns import get_random_score, hns
 ```
 
 | Function | Returns | Example |
@@ -125,6 +128,75 @@ results = {
     "seaquest": get_hns("ALE/Seaquest-v5", 1800.0),
 }
 ```
+
+## Available Games
+
+The package includes baselines for the following Atari games. Environment IDs
+may also be passed with an `ALE/` prefix, such as `ALE/Pong-v5`.
+
+<div align="center">
+
+| Game | Environment ID | Alias |
+| :---: | :---: | :---: |
+| Alien | `Alien-v5` | `alien` |
+| Amidar | `Amidar-v5` | `amidar` |
+| Assault | `Assault-v5` | `assault` |
+| Asterix | `Asterix-v5` | `asterix` |
+| Asteroids | `Asteroids-v5` | `asteroids` |
+| Atlantis | `Atlantis-v5` | `atlantis` |
+| BankHeist | `BankHeist-v5` | `bankheist` |
+| BattleZone | `BattleZone-v5` | `battlezone` |
+| BeamRider | `BeamRider-v5` | `beamrider` |
+| Berzerk | `Berzerk-v5` | `berzerk` |
+| Bowling | `Bowling-v5` | `bowling` |
+| Boxing | `Boxing-v5` | `boxing` |
+| Breakout | `Breakout-v5` | `breakout` |
+| Centipede | `Centipede-v5` | `centipede` |
+| ChopperCommand | `ChopperCommand-v5` | `choppercommand` |
+| CrazyClimber | `CrazyClimber-v5` | `crazyclimber` |
+| Defender | `Defender-v5` | `defender` |
+| DemonAttack | `DemonAttack-v5` | `demonattack` |
+| DoubleDunk | `DoubleDunk-v5` | `doubledunk` |
+| Enduro | `Enduro-v5` | `enduro` |
+| FishingDerby | `FishingDerby-v5` | `fishingderby` |
+| Freeway | `Freeway-v5` | `freeway` |
+| Frostbite | `Frostbite-v5` | `frostbite` |
+| Gopher | `Gopher-v5` | `gopher` |
+| Gravitar | `Gravitar-v5` | `gravitar` |
+| Hero | `Hero-v5` | `hero` |
+| IceHockey | `IceHockey-v5` | `icehockey` |
+| Jamesbond | `Jamesbond-v5` | `jamesbond` |
+| Kangaroo | `Kangaroo-v5` | `kangaroo` |
+| Krull | `Krull-v5` | `krull` |
+| KungFuMaster | `KungFuMaster-v5` | `kungfumaster` |
+| MontezumaRevenge | `MontezumaRevenge-v5` | `montezumarevenge` |
+| MsPacman | `MsPacman-v5` | `mspacman` |
+| NameThisGame | `NameThisGame-v5` | `namethisgame` |
+| Phoenix | `Phoenix-v5` | `phoenix` |
+| Pitfall | `Pitfall-v5` | `pitfall` |
+| Pong | `Pong-v5` | `pong` |
+| PrivateEye | `PrivateEye-v5` | `privateeye` |
+| Qbert | `Qbert-v5` | `qbert` |
+| Riverraid | `Riverraid-v5` | `riverraid` |
+| RoadRunner | `RoadRunner-v5` | `roadrunner` |
+| Robotank | `Robotank-v5` | `robotank` |
+| Seaquest | `Seaquest-v5` | `seaquest` |
+| Skiing | `Skiing-v5` | `skiing` |
+| Solaris | `Solaris-v5` | `solaris` |
+| SpaceInvaders | `SpaceInvaders-v5` | `spaceinvaders` |
+| StarGunner | `StarGunner-v5` | `stargunner` |
+| Surround | `Surround-v5` | `surround` |
+| Tennis | `Tennis-v5` | `tennis` |
+| TimePilot | `TimePilot-v5` | `timepilot` |
+| Tutankham | `Tutankham-v5` | `tutankham` |
+| UpNDown | `UpNDown-v5` | `upndown` |
+| Venture | `Venture-v5` | `venture` |
+| VideoPinball | `VideoPinball-v5` | `videopinball` |
+| WizardOfWor | `WizardOfWor-v5` | `wizardofwor` |
+| YarsRevenge | `YarsRevenge-v5` | `yarsrevenge` |
+| Zaxxon | `Zaxxon-v5` | `zaxxon` |
+
+</div>
 
 ## Baseline Data
 
