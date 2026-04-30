@@ -200,9 +200,15 @@ may also be passed with an `ALE/` prefix, such as `ALE/Pong-v5`.
 
 ## Baseline Data
 
-Baseline scores are stored in `atarihns.constants.ATARI_SCORES` as
-`(random_score, human_score)` pairs. The table follows the standard Atari
-benchmark convention used by DQN-style evaluation.
+Baseline scores are stored in `atarihns.constants.ATARI_SCORES` as `(random_score, human_score)` pairs. The table follows the standard Atari benchmark convention used by DQN-style evaluation.
+
+## Gathered Data
+
+I have gathered data regarding the games that were not originally present in the Atari 57 benchmark and am trying to complete the data. Contributions are welcomed. 
+
+### Air Raid
+
+- [Electronic Rag](https://www.youtube.com/watch?v=IzJ_HjIgybs) achieved 4825.
 
 ## Citation
 
