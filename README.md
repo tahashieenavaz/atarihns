@@ -216,7 +216,19 @@ Random scores have been calculated using [EnvPool](https://pypi.org/project/envp
 
 The average of these scores is `1865.9909091`. 
 
-The random score was calculated with an average of `571.25` and a median of 475.0, as of 2026-04-30 13:50:19.
+The random score was calculated with an average of `571.25` and a median of `475.0`, as of 2026-04-30 13:50:19.
+
+## Crossbow
+
+- [Highretrogamelord](https://www.youtube.com/watch?v=3Q6RPYDSEfw) achieved `13600`.
+- [The No Swear Gamer](https://www.youtube.com/watch?v=OrStTZUblOs) achieved `37350`.
+- [The GamesBay](https://www.youtube.com/watch?v=KALIBQ6a8tM) plays twice and achieves `17250`, `17450`.
+- [ArcadeUSA](https://www.youtube.com/watch?v=bbyvUj7Qqvo) achieves `14950`. 
+- [BPN_GAMING](https://www.youtube.com/watch?v=FrrKArsZzb4) plays multiple times and achieves `24150`, `3350`, `13800`, `16400`, `30100`, `18150`, `19600`, `18450`, `55600`, `19650`, `50`, `250`, `30150`, `450`, `54700`
+
+These numbers average at `20272.5`.
+
+The random score was calculated with an average of `35.0` and a median of `0.0`, as of 2026-04-30 14:09:26.
 
 ## Citation
 
