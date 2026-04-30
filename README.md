@@ -215,7 +215,7 @@ Random scores have been calculated using [EnvPool](https://pypi.org/project/envp
 
 - [Electronic Rag](https://www.youtube.com/watch?v=IzJ_HjIgybs) achieved `4825`.
 - [Retro Game On](https://www.youtube.com/watch?v=NiBeweH4YyY) shows a videos of somebody playing achieving `3825` 
-- [Lenny's Longplays](https://www.youtube.com/watch?v=koiisyzAd1o) plays many times and achieves `5100`, `2225`, `2250`, `1375`, `825`, `150`, `650`, `675`, `875`.
+- [Lenny's Longplays](https://www.youtube.com/watch?v=koiisyzAd1o) plays a few times and achieves `5100`, `2225`, `2250`, `1375`, `825`, `150`, `650`, `675`, `875`.
 
 The average of these scores is `1865.9909091`. 
 
