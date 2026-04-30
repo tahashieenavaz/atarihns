@@ -62,4 +62,5 @@ ATARI_SCORES = {
     "YarsRevenge-v5": (3092.9, 54576.9),
     "Zaxxon-v5": (32.5, 9173.3),
     "AirRaid-v5": (571.25, 1865.9909091),
+    "Crossbow-v5": (35.0, 20272.5),
 }
