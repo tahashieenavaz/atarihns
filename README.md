@@ -202,13 +202,18 @@ may also be passed with an `ALE/` prefix, such as `ALE/Pong-v5`.
 
 Baseline scores are stored in `atarihns.constants.ATARI_SCORES` as `(random_score, human_score)` pairs. The table follows the standard Atari benchmark convention used by DQN-style evaluation.
 
-## Gathered Data
+## Gathering Data
 
 I have gathered data regarding the games that were not originally present in the Atari 57 benchmark and am trying to complete the data. Contributions are welcomed. 
 
+Random scores have been calculated using [EnvPool](https://pypi.org/project/envpool) with averaging the results of 10 completely random environments on random seeds.
+
 ### Air Raid
 
-- [Electronic Rag](https://www.youtube.com/watch?v=IzJ_HjIgybs) achieved 4825.
+- [Electronic Rag](https://www.youtube.com/watch?v=IzJ_HjIgybs) achieved `4825`.
+- [Lenny's Longplays](https://www.youtube.com/watch?v=koiisyzAd1o) plays many times and achieves `5100`, `2225`, `2250`, `1375`, `825`, `150`, `650`, `675`, `875`.
+
+These numbers average at `1670`. 
 
 ## Citation
 
