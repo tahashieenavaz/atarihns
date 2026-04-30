@@ -218,7 +218,7 @@ The average of these scores is `1865.9909091`.
 
 The random score was calculated with an average of `571.25` and a median of `475.0`, as of 2026-04-30 13:50:19.
 
-## Crossbow
+### Crossbow
 
 - [Highretrogamelord](https://www.youtube.com/watch?v=3Q6RPYDSEfw) achieved `13600`.
 - [The No Swear Gamer](https://www.youtube.com/watch?v=OrStTZUblOs) achieved `37350`.
