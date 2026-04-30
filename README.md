@@ -206,7 +206,7 @@ Baseline scores are stored in `atarihns.constants.ATARI_SCORES` as `(random_scor
 
 I have gathered data regarding the games that were not originally present in the Atari 57 benchmark and am trying to complete the data. Contributions are welcomed. 
 
-Random scores have been calculated using [EnvPool](https://pypi.org/project/envpool) with averaging the results of 10 completely random environments on random seeds.
+Random scores have been calculated using [EnvPool](https://pypi.org/project/envpool) with averaging the results of 10 completely random environments on random seeds using [this](./scripts/random_play.py) script.
 
 ### Air Raid
 
@@ -214,7 +214,9 @@ Random scores have been calculated using [EnvPool](https://pypi.org/project/envp
 - [Retro Game On](https://www.youtube.com/watch?v=NiBeweH4YyY) shows a videos of somebody playing achieving `3825` 
 - [Lenny's Longplays](https://www.youtube.com/watch?v=koiisyzAd1o) plays many times and achieves `5100`, `2225`, `2250`, `1375`, `825`, `150`, `650`, `675`, `875`.
 
-These numbers average at `1865.9909091`. 
+The average of these scores is `1865.9909091`. 
+
+The random score was calculated with an average of `571.25` and a median of 475.0, as of 2026-04-30 13:50:19.
 
 ## Citation
 
