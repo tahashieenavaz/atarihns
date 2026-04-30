@@ -197,6 +197,7 @@ may also be passed with an `ALE/` prefix, such as `ALE/Pong-v5`.
 | Zaxxon | `Zaxxon-v5` | `zaxxon` |
 | AirRaid | `AirRaid-v5` | `airraid` |
 | Crossbow | `Crossbow-v5` | `crossbow` |
+| Dark Chambers | `Darkchambers-v5` | `darkchambers` |
 
 </div>
 
@@ -231,6 +232,20 @@ The random score was calculated with an average of `571.25` and a median of `475
 These numbers average at `20272.5`.
 
 The random score was calculated with an average of `35.0` and a median of `0.0`, as of 2026-04-30 14:09:26.
+
+### Dark Chambers
+
+- The highest score seen by [DMT's Channel](https://www.youtube.com/watch?v=wNAU1W7M2uI) is `12990`.
+- [Family Friendly Gaming](https://www.youtube.com/watch?v=-93WdkCkEtA) quits the game at `4370`.
+- [Lurski](https://www.youtube.com/watch?v=OrTP-9RfRPM) game overs at `14510`.
+- [Relieve Past Games](https://www.youtube.com/watch?v=AQ0BAWex9fs) finishes at `3480`.
+- [Mr.Murdock Gaming](https://www.youtube.com/watch?v=V4WwUx9DLCw) finishes at `29500`.
+- [The No Swear Gamer](https://www.youtube.com/watch?v=ZNMbMzLkFbk) exits the game at `2220`.
+
+These numbers average at `11178.33333333`.
+
+The random score was calculated with an average of `186.6` and a median of `200.0`, as of 2026-04-30 14:38:50.
+
 
 ## Citation
 
