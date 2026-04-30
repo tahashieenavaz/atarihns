@@ -1,7 +1,7 @@
 # Atari benchmark scores adapted from:
 # https://github.com/mttga/purejaxql/blob/main/purejaxql/utils/atari_wrapper.py
 #
-# Format: (random agent score, human expert score)
+# Format: (average random score, average human score)
 
 ATARI_SCORES = {
     "Alien-v5": (227.8, 7127.7),
@@ -61,4 +61,5 @@ ATARI_SCORES = {
     "WizardOfWor-v5": (563.5, 4756.5),
     "YarsRevenge-v5": (3092.9, 54576.9),
     "Zaxxon-v5": (32.5, 9173.3),
+    "AirRaid-v5": (571.25, 1865.9909091),
 }
