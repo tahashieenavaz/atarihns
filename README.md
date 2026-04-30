@@ -211,9 +211,10 @@ Random scores have been calculated using [EnvPool](https://pypi.org/project/envp
 ### Air Raid
 
 - [Electronic Rag](https://www.youtube.com/watch?v=IzJ_HjIgybs) achieved `4825`.
+- [Retro Game On](https://www.youtube.com/watch?v=NiBeweH4YyY) shows a videos of somebody playing achieving `3825` 
 - [Lenny's Longplays](https://www.youtube.com/watch?v=koiisyzAd1o) plays many times and achieves `5100`, `2225`, `2250`, `1375`, `825`, `150`, `650`, `675`, `875`.
 
-These numbers average at `1670`. 
+These numbers average at `1865.9909091`. 
 
 ## Citation
 
