@@ -235,12 +235,12 @@ The random score was calculated with an average of `35.0` and a median of `0.0`,
 
 ### Dark Chambers
 
-- The highest score seen by [DMT's Channel](https://www.youtube.com/watch?v=wNAU1W7M2uI) is `12990`.
+- The highest score seen in the video by [DMT's Channel](https://www.youtube.com/watch?v=wNAU1W7M2uI) is `12990`.
 - [Family Friendly Gaming](https://www.youtube.com/watch?v=-93WdkCkEtA) quits the game at `4370`.
-- [Lurski](https://www.youtube.com/watch?v=OrTP-9RfRPM) game overs at `14510`.
+- [Lurski](https://www.youtube.com/watch?v=OrTP-9RfRPM) finishes at `14510`.
 - [Relieve Past Games](https://www.youtube.com/watch?v=AQ0BAWex9fs) finishes at `3480`.
 - [Mr.Murdock Gaming](https://www.youtube.com/watch?v=V4WwUx9DLCw) finishes at `29500`.
-- [The No Swear Gamer](https://www.youtube.com/watch?v=ZNMbMzLkFbk) exits the game at `2220`.
+- [The No Swear Gamer](https://www.youtube.com/watch?v=ZNMbMzLkFbk) finishes at `2220`.
 
 These numbers average at `11178.33333333`.
 
