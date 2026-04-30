@@ -195,6 +195,8 @@ may also be passed with an `ALE/` prefix, such as `ALE/Pong-v5`.
 | WizardOfWor | `WizardOfWor-v5` | `wizardofwor` |
 | YarsRevenge | `YarsRevenge-v5` | `yarsrevenge` |
 | Zaxxon | `Zaxxon-v5` | `zaxxon` |
+| AirRaid | `AirRaid-v5` | `airraid` |
+| Crossbow | `Crossbow-v5` | `crossbow` |
 
 </div>
 
